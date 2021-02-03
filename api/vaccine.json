@@ -1,0 +1,121 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "BioNTech/Pfizer",
+      "seoUrl": "biontech"
+    },
+    {
+      "id": 2,
+      "categoryName": "Moderna",
+      "seoUrl": "moderna"
+    },
+    {
+      "id": 3,
+      "categoryName": "AstraZeneca",
+      "seoUrl": "astrazeneca"
+    },
+    {
+      "id": 4,
+      "categoryName": "Sputnik V",
+      "seoUrl": "sputnikv"
+    },
+    {
+      "id": 5,
+      "categoryName": "CanSinoBIO",
+      "seoUrl": "cansinobio"
+    },
+    {
+      "id": 6,
+      "categoryName": "Sinopharm",
+      "seoUrl": "sinopharm"
+    },
+    {
+      "id": 7,
+      "categoryName": "CoronaVac",
+      "seoUrl": "coronavac"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "categoryId": 4,
+      "userName": "Max Payne",
+      "userComment": "Aşıyı oldum ama tekrar covid-19'a yakalandım.",
+      "userEffects": "Baş ağrısı, kol ağrısı",
+      "point": "2"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "userName": "Max Russell",
+      "userComment": "Aşıyı oldum. Şu an için kendimi iyi hissediyorum. 4 gün oldu bir sıkıntı yaşamadım. Deneme sürecindeyim.",
+      "userEffects": "Halsizlik, Mide bulantısı",
+      "point": 4
+    },
+    {
+      "id": 3,
+      "categoryId": 7,
+      "userName": "Scarlett Delevigne",
+      "userComment": "Aşıyı oldum ama yerimden hareket edecek halim kalmadı. İşlerimden geri kaldım ama olsun.",
+      "userEffects": "Halsizlik, kusma, karın ağrısı",
+      "point": 2
+    },
+    {
+      "id": 4,
+      "categoryId": 6,
+      "userName": "Aysenur Akdas",
+      "userComment": "Aşıyı 10 gün önce oldum. Şu ana kadar hiç kötü hissetmedim. İlk başlarda halsizliğim oldu.",
+      "userEffects": "Halsizlik",
+      "point": 4
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "userName": "Kağan İnce",
+      "userComment": "Gerçekten hayatımı çok etkilemedi. Hala hastalanmadım 4 hafta olmasına rağmen.",
+      "userEffects": "Karın ağrısı",
+      "point": 5
+    },
+    {
+      "id": 6,
+      "categoryId": 5,
+      "userName": "Jassmine Reid",
+      "userComment": "Aşıyı 20 gün önce oldum. Baş ağrım başlarda çok oldu. Sürekli uyukluyordum. Ama 5 gün sonra bu şikeyetlerim düzeldi. Kendimi şu an çok iyi hissediyorum.",
+      "userEffects": "Baş ağrısı, Uykusuzluk",
+      "point": 5
+    },
+    {
+      "id": 7,
+      "categoryId": 3,
+      "userName": "Kadir Arkın",
+      "userComment": "İlk kötü hissettim ama sonrasında gerçekten dinçleştim. Şu an iyi gibiyim.",
+      "userEffects": "Kol ağrısı, Kusma, Halsizlik",
+      "point": 3
+    },
+    {
+      "userName": "Ali Yalın",
+      "categoryId": 4,
+      "userComment": "Acımadı ama bir etkisi de olmadı.",
+      "userEffects": "Halsizlik, Bulantı",
+      "point": "2",
+      "id": 8
+    },
+    {
+      "userName": "Fatih Akdaş",
+      "categoryId": 1,
+      "userComment": "Aşıyı olduktan sonra işe gidip geliyorum ve herhangi bir rahatsızlığım olmadı.",
+      "userEffects": "Kol ağrısı",
+      "point": "4",
+      "id": 9
+    },
+    {
+      "userName": "Aybüke İnce",
+      "categoryId": 2,
+      "userComment": "Aşılardan korkmama rağmen oldum. 2 hafta oldu hasta olmadım.",
+      "userEffects": "Baş ağrısı, Bulantı",
+      "point": "3",
+      "id": 10
+    }
+  ]
+}
